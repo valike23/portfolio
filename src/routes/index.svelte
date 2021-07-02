@@ -147,15 +147,18 @@
         <div class="h-10" />
         <p>
          I am a full stack developer with over 6 years exprience using over 6 programming
-		 languages and over 20 frameworks, I love innovative solution and rigged highly functional
-		 applications. Having work for over 4 years developing enterprise solution for top companies
-		 across the country.
+		 languages and over 20 frameworks. I graduated from the university of Benin in
+      2017 where is studied computer science,
+     since then I have worked in multiple companies where my roles revolves around
+     development of .NET application to developement of MESN stack application.
+     <br>
+      I love innovative solution and rigged highly functional
+		 applications.I also adhere to SOLID principles while developing
+      and also developing solutions in a decoupled manner , I love learning new technologies,
+     solving challenging problems and working with a team. Also love teaching young people 
+     how to code.
         </p>
-        <p>
-          Conceptualizing app solutions with the latest technology, design
-          theory, and a large dose of creativity. Committed to viable and easily
-          functional app solutions for clients..
-        </p>
+       
         <div class="h-20" />
         <img src="img/Signature.svg" width="230" alt="" />
         <div class="h-50" />
@@ -191,8 +194,8 @@
         <li class="timeline-event" data-aos="fade-up">
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">December 2019 - Present</p>
-            <h3>Front-end Developer / UI-UX Designer</h3>
+            <p class="timeline-event-thumbnail">December 2018 - Present</p>
+            <h3>Full Stack Developer / .NET Developer</h3>
             <h4>Full Time</h4>
             <p>
               <strong>Telnet Nigeria Limited</strong>
@@ -206,29 +209,26 @@
             <div id="telnet" class="collapse">
               <ul class="work">
                 <li class="justify-content-between align-items-center">
-                  Develop and maintain code for in-house and client websites
-                  primarily using HTML, CSS, Sass, JavaScript, and jQuery
+                 Analysis system requiremnet document and construct system design diagrams such as
+                 sequence diagram, use case diagram etc.
                 </li>
                 <li class="justify-content-between align-items-center">
-                  Manually test sites in various browsers and mobile devices to
-                  ensure cross-browser compatibility and responsiveness
+                 Design of windows services to automate system processes of some of our top solution such as
+                 autoswift, JTB integration etc.
                 </li>
                 <li class="justify-content-between align-items-center">
-                  Develop and ensure thoughtful and coherent User Interfaces and
-                  User Experiences across all Web apps and Mobile Apps
+                  Developing .NET based Applications integrating Ado.net framework to work with SQL Server databases
                 </li>
                 <li class="justify-content-between align-items-center">
                   Work with a variety of different languages, platforms,
                   frameworks, and content management systems such as JavaScript,
-                  TypeScript, Angular, Wordpress, and Netlify
+                  TypeScript, Angular, svelte, and Heroku
                 </li>
                 <li class="justify-content-between align-items-center">
                   Write modern, performant, maintainable code for a diverse
                   array of client and internal projects
                 </li>
-                <li class="justify-content-between align-items-center">
-                  Create Graphic Designs for internal projects Including Logos
-                </li>
+             
               </ul>
             </div>
           </div>
@@ -236,14 +236,13 @@
         <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">May 2019 – November 2019</p>
-            <h3>STEM Facilitator</h3>
+            <p class="timeline-event-thumbnail">May 2020 – Present</p>
+            <h3>CTO</h3>
             <h4>Part Time</h4>
             <p>
-              <strong>Re:learn by Cc-Hub</strong>
-              <br />Re:learn helps students and schools use technology in smart
-              ways to enhance learning, through content curation and capacity
-              development
+              <strong>Trigga Technologies</strong>
+              <br />We are a team of trendy tech enthusiasts
+               and brand strategists seeking to influence your life by offering you ‘SOLUTIONS THAT EMPOWER’.
             </p>
             <button
               data-toggle="collapse"
