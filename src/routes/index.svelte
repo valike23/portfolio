@@ -29,7 +29,7 @@
       ><img src="img/favicon.ico" class="logo" alt="logo" /></a
     >
 
- <a class="text-truncate" href="tel:07040206876">call: 07040206876</a>
+    <a class="text-truncate" href="tel:07040206876">call: 07040206876</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -146,19 +146,20 @@
         <h1 class="size-50">Know <br /> About me</h1>
         <div class="h-10" />
         <p>
-         I am a full stack developer with over 6 years exprience using over 6 programming
-		 languages and over 20 frameworks. I graduated from the university of Benin in
-      2017 where is studied computer science,
-     since then I have worked in multiple companies where my roles revolves around
-     development of .NET application to developement of MESN stack application.
-     <br>
-      I love innovative solution and rigged highly functional
-		 applications.I also adhere to SOLID principles while developing
-      and also developing solutions in a decoupled manner , I love learning new technologies,
-     solving challenging problems and working with a team. Also love teaching young people 
-     how to code.
+          I am a full stack developer with over 6 years exprience using over 6
+          programming languages and over 20 frameworks. I graduated from the
+          university of Benin in 2017 where is studied computer science, since
+          then I have worked in multiple companies where my roles revolves
+          around development of .NET application to developement of MESN stack
+          application.
+          <br />
+          I love innovative solution and rigged highly functional applications.I
+          also adhere to SOLID principles while developing and also developing solutions
+          in a decoupled manner , I love learning new technologies, solving challenging
+          problems and working with a team. Also love teaching young people how to
+          code.
         </p>
-       
+
         <div class="h-20" />
         <img src="img/Signature.svg" width="230" alt="" />
         <div class="h-50" />
@@ -209,15 +210,18 @@
             <div id="telnet" class="collapse">
               <ul class="work">
                 <li class="justify-content-between align-items-center">
-                 Analysis system requiremnet document and construct system design diagrams such as
-                 sequence diagram, use case diagram etc.
+                  Analysis system requiremnet document and construct system
+                  design diagrams such as sequence diagram, use case diagram
+                  etc.
                 </li>
                 <li class="justify-content-between align-items-center">
-                 Design of windows services to automate system processes of some of our top solution such as
-                 autoswift, JTB integration etc.
+                  Design of windows services to automate system processes of
+                  some of our top solution such as autoswift, JTB integration
+                  etc.
                 </li>
                 <li class="justify-content-between align-items-center">
-                  Developing .NET based Applications integrating Ado.net framework to work with SQL Server databases
+                  Developing .NET based Applications integrating Ado.net
+                  framework to work with SQL Server databases
                 </li>
                 <li class="justify-content-between align-items-center">
                   Work with a variety of different languages, platforms,
@@ -228,7 +232,6 @@
                   Write modern, performant, maintainable code for a diverse
                   array of client and internal projects
                 </li>
-             
               </ul>
             </div>
           </div>
@@ -241,8 +244,9 @@
             <h4>Part Time</h4>
             <p>
               <strong>Trigga Technologies</strong>
-              <br />We are a team of trendy tech enthusiasts
-               and brand strategists seeking to influence your life by offering you ‘SOLUTIONS THAT EMPOWER’.
+              <br />We are a team of trendy tech enthusiasts and brand
+              strategists seeking to influence your life by offering you
+              ‘SOLUTIONS THAT EMPOWER’.
             </p>
             <button
               data-toggle="collapse"
@@ -252,65 +256,26 @@
             <div id="relearn" class="collapse">
               <ul class="work">
                 <li class="justify-content-between align-items-center">
-                  Created, Oversaw and Delivered Science Factory on- and
-                  off-site educational programming, hands-on activities, and
-                  STEM resources for grades Pre-K through 8
+                  In charge of managing a small team of developers to design
+                  highly functional user oriented solutions
                 </li>
               </ul>
             </div>
           </div>
         </li>
-        <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
-          <label class="timeline-event-icon" />
-          <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">December 2018 – Present</p>
-            <h3>Software Developer</h3>
-            <h4>Freelance</h4>
-            <p>
-              <strong>Mind Initiatives</strong>
-              <br />Mind Initiatives is an Information technology Consulting
-              Services startup that specializes in delivering technological
-              solutions to meet the needs of their clients by providing holistic
-              business solutions for improved overall business performance.
-            </p>
-            <button data-toggle="collapse" class="moreBtn" data-target="#mind"
-              >View more</button
-            >
-            <div id="mind" class="collapse">
-              <ul class="work">
-                <li class="justify-content-between align-items-center">
-                  Engineered and maintained major features of SoftEntry Visitors
-                  and Guest Management web app using Angular, Node, Express,
-                  MongoDB and SCSS
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Architected and Implemented the Front end of the CourierStack
-                  Mobile App for Automation of Courier Services
-                </li>
-                <li class="justify-content-between align-items-center">
-                  implemented the front-end of TAPPS Agent Web App, which lets
-                  tax payers be able to pay tax at their convenience with an
-                  Agent Close to them
-                </li>
-                <li class="justify-content-between align-items-center">
-                  built a marketing website and e-commerce platform for
-                  Olamstech, an ambitious tech startup originating from Lee,
-                  United Kingdom
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
+
         <li class="timeline-event" data-aos="fade-up" data-aos-delay=".6">
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
             <p class="timeline-event-thumbnail">February 2018</p>
             <h3>Code tutor</h3>
-            <h4>Freelance</h4>
+            <h4>SkillBerry</h4>
             <p>
-              <strong>Orbit Digital Learning Centre</strong>
-              <br />Orbit Digital Learning Centre is a training centre that
-              offers quality training, serving students across Lagos, Nigeria.
+              <strong>SkillBerry Uniben</strong>
+              <br />SkillBerry is a University Oriented, skill acquistion NGO,
+              looking to develop university undergraduate not just to graduate
+              with top grades but also to provide them with hands on skills to
+              prepare them for the labour market.
             </p>
             <button data-toggle="collapse" class="moreBtn" data-target="#orbit"
               >View more</button
@@ -319,111 +284,10 @@
               <ul class="work">
                 <li class="justify-content-between align-items-center">
                   Developed and taught specific computer science curriculum to
-                  students with various classes that entailed game programming,
-                  app programming, logic and critical thinking. While making the
-                  Courses developmentally appropriate and engaging.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-event" data-aos="fade-up" data-aos-delay=".8">
-          <label class="timeline-event-icon" />
-          <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">April 2016 - December 2017</p>
-            <h3>Assistant IT Support Analyst</h3>
-            <h4>Volunteer</h4>
-            <p>
-              <strong>Lasena Water</strong>
-              <br />Lasena Water is a Water Producing Company which offers the
-              first Artesian water in Nigeria.
-            </p>
-            <button data-toggle="collapse" class="moreBtn" data-target="#lasena"
-              >View more</button
-            >
-            <div id="lasena" class="collapse">
-              <ul class="work">
-                <li class="justify-content-between align-items-center">
-                  Installed and configured computer software, hardware,
-                  operating system, Applications and networks to suit the
-                  company’s unique needs
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Set up peripherals like printers, keyboards, routers, modems,
-                  and smart devices and ensure that they are functional and
-                  secure.
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Maintained and Managed the Company’s website.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-event" data-aos="fade-up" data-aos-delay=".10">
-          <label class="timeline-event-icon" />
-          <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">March 2012 - February 2017</p>
-            <h3>Systems Engineer</h3>
-            <h4>Contract</h4>
-            <p>
-              <strong>Skynet InfoTech & Engineering system</strong>
-              <br />Skynet InfoTech is a group of security professionals with
-              over fifteen (15) years of combined experience.
-            </p>
-            <button data-toggle="collapse" class="moreBtn" data-target="#skynet"
-              >View more</button
-            >
-            <div id="skynet" class="collapse">
-              <ul class="work">
-                <li class="justify-content-between align-items-center">
-                  Managed and monitored all installed systems and infrastructure
-                  of clients
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Installed, configured, tested and maintained operating
-                  systems, application software and system management tools for
-                  client
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-
-        <li class="timeline-event" data-aos="fade-up" data-aos-delay=".12">
-          <label class="timeline-event-icon" />
-          <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">July 2012 - June 2013</p>
-            <h3>Computer Operator</h3>
-            <h4>Full Time</h4>
-            <p>
-              <strong
-                >Celline Services Nigeria Limited (Celline Café Plus)</strong
-              >
-              <br />Celline Café Plus is a cyber cafe and Business centre in
-              Mainland, Lagos offering computer training and cyber café
-              services.
-            </p>
-            <button
-              data-toggle="collapse"
-              class="moreBtn"
-              data-target="#celline">View more</button
-            >
-            <div id="celline" class="collapse">
-              <ul class="work">
-                <li class="justify-content-between align-items-center">
-                  Operated spreadsheet programs and other types of software to
-                  load and manipulate data and to produce reports.
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Read job set-up instructions to determine equipment to be
-                  used, order of use, material such as disks and paper to be
-                  loaded, and control settings.
-                </li>
-                <li class="justify-content-between align-items-center">
-                  Oversaw the operation of computer hardware systems, including
-                  coordinating and scheduling the use of computer terminals and
-                  networks to ensure efficient use.
+                  students with various classes that entailed data structure,
+                  algorithm basic introduction to programming, logic and
+                  critical thinking. While making the Courses developmentally
+                  appropriate and engaging.
                 </li>
               </ul>
             </div>
@@ -479,7 +343,8 @@
                   d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365 c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63 c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996 c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136 c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559 c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559 c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997 c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851 c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136 c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41 c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126 c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817 c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994 c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849 c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24 c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979 c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146 c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995 c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906 C438.536,184.851,428.728,148.168,409.132,114.573z"
                 />
               </svg></a
-            ><a
+            >
+            <a
               href="https://lexerati.herokuapp.com/"
               aria-label="External Link"
               ><svg
@@ -518,7 +383,7 @@
               />
               <img
                 src="img/lexerati.png"
-                alt="SoftEntry"
+                alt="lexerati"
                 loading="lazy"
                 style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 500ms ease 0s;"
               />
@@ -532,23 +397,23 @@
       >
         <div class="project-content">
           <p class="project-overline">Featured Project</p>
-          <h3 class="project-title">CourierStack UI</h3>
+          <h3 class="project-title">PharmaShop</h3>
           <div class="project-description">
             <p>
-              A mobile application for Automating Couriers' Logisitics
-              processes. with Features including Selection of a preferred
-              Courier, Delivery, Rate Courier, Track Orders and others.
+             A full system solution, having a mobile app, a dispatcher app and a admin website , designed 
+             for pharmaceutical stores, while users can dynamically and securly order for meidcal items based
+             on their prescriptions and get it delivered to them.
             </p>
           </div>
           <ul class="project-tech-list">
-            <li>Adobe XD</li>
-            <li>Java</li>
-            <li>Android SDK</li>
+            <li>Nodejs</li>
+            <li>MySQL</li>
+            <li>AngularJS Material</li>
           </ul>
           <div class="project-links">
             <a
-              href="https://dribbble.com/Mo_Init/courier-stack"
-              aria-label="Dribbble Link"
+              href="https://pharmashop.herokuapp.com/"
+              aria-label="External Link"
             >
               <svg
                 version="1.1"
@@ -595,17 +460,25 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
                 <g />
                 <g />
               </svg>
-              <!-- <svg xmlns="http://www.w3.org/2000/svg" role="img"
-							viewBox="0 0 438.549 438.549">
-							<title>GitHub</title>
-							<path
-								d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365 c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63 c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996 c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136 c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559 c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559 c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997 c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851 c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136 c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41 c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126 c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817 c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994 c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849 c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24 c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979 c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146 c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995 c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906 C438.536,184.851,428.728,148.168,409.132,114.573z">
-							</path>
-						</svg> -->
             </a>
+            <a
+            href="https://github.com/valike23/pharmashop"
+            aria-label="GitHub Link"
+            ><svg
+              xmlns="http://www.w3.org/2000/svg"
+              role="img"
+              viewBox="0 0 438.549 438.549"
+            >
+              <title>GitHub</title>
+              <path
+                d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365 c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63 c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996 c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136 c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559 c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559 c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997 c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851 c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136 c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41 c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126 c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817 c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994 c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849 c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24 c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979 c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146 c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995 c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906 C438.536,184.851,428.728,148.168,409.132,114.573z"
+              />
+            </svg></a
+          >
           </div>
         </div>
         <div class="project-image">
+          <!-- svelte-ignore a11y-invalid-attribute -->
           <a href="#">
             <div
               class="img gatsby-image-wrapper"
@@ -622,8 +495,8 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
                 style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 0; transition-delay: 500ms;"
               />
               <img
-                src="img/portfolio/courierStack-ui.png"
-                alt="CourierStack"
+                src="img/pharamashop.png"
+                alt="Pharmashop"
                 loading="lazy"
                 style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 500ms ease 0s;"
               />
@@ -637,22 +510,25 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
       >
         <div class="project-content">
           <p class="project-overline">Featured Project</p>
-          <h3 class="project-title">Olamstech.com</h3>
+          <h3 class="project-title">TjKonnect</h3>
           <div class="project-description">
             <p>
-              A Marketing website and e-commerce platform for Olamstech, an
-              ambitious tech startup and computer repair company based in the
-              UK.
+              TjKonnect is a social media , entertainment platform where people can showcase their talent 
+              across the world easily. Also a person can advertise and manage talent based competition on it.
+
+              Tjkonnect comes with both a mobile friendly web platform and a fully functional Android App
             </p>
           </div>
           <ul class="project-tech-list">
-            <li>Wordpress</li>
-            <li>HTML5</li>
-            <li>CSS3</li>
+            <li>Nodejs</li>
+            <li>Ionic</li>
+            <li>Angular</li>
+            <li>Mssql</li>
+            <li>MongoDB</li>
           </ul>
           <div class="project-links">
             <a
-              href="https://github.com/MindInitiatives/Olamstech-Website"
+              href="https://github.com/valike23/tjkonnect"
               aria-label="GitHub Link"
               ><svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -664,7 +540,7 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
                   d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365 c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63 c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996 c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136 c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559 c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559 c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997 c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851 c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136 c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41 c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126 c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817 c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994 c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849 c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24 c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979 c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146 c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995 c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906 C438.536,184.851,428.728,148.168,409.132,114.573z"
                 />
               </svg></a
-            ><a href="https://https://olamstech.com/" aria-label="External Link"
+            ><a href="https://tjkonnect.herokuapp.com/" aria-label="External Link"
               ><svg
                 xmlns="http://www.w3.org/2000/svg"
                 role="img"
@@ -684,7 +560,7 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
           </div>
         </div>
         <div class="project-image">
-          <a href="https://olamstech.com/">
+          <a href="https://tjkonnect.herokuapp.com/">
             <div
               class="img gatsby-image-wrapper"
               style="position: relative; overflow: hidden;"
@@ -700,8 +576,8 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
                 style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 0; transition-delay: 500ms;"
               />
               <img
-                src="img/portfolio/olamstech.jpg"
-                alt="Olamstech"
+                src="img/tj/tjkweb.png"
+                alt="tjkonnect"
                 loading="lazy"
                 style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 500ms ease 0s;"
               />
@@ -733,7 +609,7 @@ c28.155-10.772,50.939-26.637,67.658-47.223C262.725,103.042,270,125.686,270,150C2
                 <li><a href="#" class="active" data-filter="*">All</a></li>
                 <li><a href="#" data-filter=".angular">Angular</a></li>
                 <li><a href="#" data-filter=".mobileApps">Mobile Apps</a></li>
-                <li><a href="#" data-filter=".graphics">User Interfaces</a></li>
+                <li><a href="#" data-filter=".graphics">.Net Projects</a></li>
                 <li><a href="#" data-filter=".wordpress">Wordpress</a></li>
                 <li><a href="#" data-filter=".webApps">Web Apps</a></li>
               </ul>
