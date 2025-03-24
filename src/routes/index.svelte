@@ -29,7 +29,7 @@
       ><img src="img/favicon.ico" class="logo" alt="logo" /></a
     >
 
-    <a class="text-truncate" href="tel:07040206876">call: 07040206876</a>
+    <a class="text-truncate" href="tel:+2347040206876">call: 07040206876</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -106,7 +106,7 @@
     </li>
 
     <li>
-      <a href="https://twitter.com/Mind_Init" aria-label="Twitter"
+      <a href="https://x.com/valenti21897116" aria-label="x"
         ><svg
           xmlns="http://www.w3.org/2000/svg"
           role="img"
@@ -128,9 +128,11 @@
     <div class="disply-table">
       <div class="table-cell" data-aos="fade-up" data-aos-delay="0">
         <h1>Valentine<br />Emmanuel</h1>
-        <h4>MESN Stack Developer</h4>
+        <h4>AWS Devops Engineer</h4>
+        <h4>Full Stack Developer</h4>
         <h4>Mobile Developer</h4>
         <h4>.Net Developer</h4>
+        <h4> Nodejs / Nestjs Developer</h4>
       </div>
     </div>
   </div>
@@ -146,12 +148,11 @@
         <h1 class="size-50">Know <br /> About me</h1>
         <div class="h-10" />
         <p>
-          I am a full stack developer with over 6 years exprience using over 6
-          programming languages and over 20 frameworks. I graduated from the
-          university of Benin in 2017 where is studied computer science, since
-          then I have worked in multiple companies where my roles revolves
-          around development of .NET application to developement of MESN stack
-          application.
+          I am a full-stack developer and AWS DevOps engineer with over six years
+           of experience using multiple programming languages and frameworks.
+            I graduated from the University of Benin in 2017 with a degree in Computer Science. 
+            Since then, I have worked in multiple companies, contributing to the development 
+          of .NET applications, MESN stack applications, and cloud infrastructure automation.
           <br />
           I love innovative solution and rigged highly functional applications.I
           also adhere to SOLID principles while developing and also developing solutions
@@ -171,7 +172,7 @@
             align="right"
             data-aos="fade-right"
             data-aos-delay="0"
-            style="background-image: url(./img/user.jpg); width: 400px; height: 500px;"
+            style="background-image: url(./val.jpeg); width: 400px; height: 500px;"
           />
           <div class="the-overlay __gradient-team-member" />
           <div class="about-border" data-aos="fade-up" data-aos-delay=".5" />
@@ -195,7 +196,58 @@
         <li class="timeline-event" data-aos="fade-up">
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">December 2018 - Present</p>
+            <p class="timeline-event-thumbnail">December 2022 - Present</p>
+            <h3>Nodejs - Nestjs Developer / AWS devops Engineer</h3>
+            <h4>Full Time</h4>
+            <p>
+              <strong>Crand Technologies</strong>
+              <br /> CRAND Technologies is a leading tech company that specializes in nurturing groundbreaking
+               products within the tech ecosystem. With a strong focus on innovation and a deep understanding of market dynamics,
+               we drive technological advancements that redefine industries and empower individuals.
+               At Crand Technologies, I worked on the backend of an asset exchange app, dTunes, 
+               with responsibilities including
+            </p>
+            <button data-toggle="collapse" class="moreBtn" data-target="#crand"
+              >View more</button
+            >
+            <div id="crand" class="collapse">
+              <ul class="work">
+                <li class="justify-content-between align-items-center">
+                  Third-Party Exchange Integration: Integrated multiple cryptocurrency
+                   exchange providers such as Coinremitter and Binance,
+                   ensuring seamless transactions and automated asset conversions.
+                </li>
+                <li class="justify-content-between align-items-center">
+                  Data Scraping & Exchange Rate Aggregation: Developed and maintained scrapers
+                   to fetch real-time exchange rates from various platforms,
+                   applying business logic to calculate and compare optimal rates for users.
+                </li>
+                <li class="justify-content-between align-items-center">
+                  AWS Deployment & Infrastructure Management: Deployed 
+                  and maintained the application on AWS, optimizing cloud resources for performance,
+                   scalability, and cost efficiency.
+                   Managed services like EC2, RDS, S3, and Lambda to support application functionality
+                </li>
+                <li class="justify-content-between align-items-center">
+                  Backend Development & Maintenance: Maintained and improved the backend codebase written in NestJS,
+                   implementing new features, optimizing database queries, and ensuring API efficiency.
+                </li>
+                <li class="justify-content-between align-items-center">
+                  Security & Compliance: Implemented security best practices, including API authentication, encryption,
+                   and monitoring to protect user data and transactions.
+                </li>
+                <li class="justify-content-between align-items-center">
+                  Website Maintenance & Optimization: Managed and updated the company website, ensuring performance
+                   improvements, bug fixes, and SEO enhancements for better visibility.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-event" data-aos="fade-up">
+          <label class="timeline-event-icon" />
+          <div class="timeline-event-copy">
+            <p class="timeline-event-thumbnail">December 2018 - December 2020</p>
             <h3>Full Stack Developer / .NET Developer</h3>
             <h4>Full Time</h4>
             <p>
@@ -239,7 +291,7 @@
         <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
-            <p class="timeline-event-thumbnail">May 2020 – Present</p>
+            <p class="timeline-event-thumbnail">May 2020 – June 2023</p>
             <h3>CTO</h3>
             <h4>Part Time</h4>
             <p>
@@ -268,7 +320,7 @@
           <label class="timeline-event-icon" />
           <div class="timeline-event-copy">
             <p class="timeline-event-thumbnail">February 2018</p>
-            <h3>Code tutor</h3>
+            <h3>Code Tutor</h3>
             <h4>SkillBerry</h4>
             <p>
               <strong>SkillBerry Uniben</strong>
